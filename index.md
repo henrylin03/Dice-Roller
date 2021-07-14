@@ -10,3 +10,5 @@ The app uses the following libraries and concepts:
 3. ```while``` loops
 4. Conditions
 5. Try/Except
+
+Further updates to come!
