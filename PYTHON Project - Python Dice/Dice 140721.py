@@ -24,5 +24,5 @@ while True:
     if roll == "Y" or roll == "Yes":
         print("Rolling the dices...")
         time.sleep(1)
-        print("The total value is " + str(random.randint(min, max)))
+        print("The total value is ... " + str(random.randint(min, max)) + "!")
     continue
