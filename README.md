@@ -1,5 +1,14 @@
-Welcome! 
+## D I C E
 
-This app rolls dice for you when you can't find them, but want to play games like Monopoly, Catan or Craps.
+Welcome to **D I C E** - an app to help you roll as many dice as you choose when you've lost them, but need them!
 
-Enter the number of dice you require, and have it generate a number for you!
+![Image](https://www.star.com.au/sydney/sites/default/files/styles/facebook_thumbnail/public/thumbnails/image/dice-game-cccp.jpg)
+
+The app uses the following libraries and concepts:
+1. ```random``` library to generate dice numbers using ```randint()```
+2. ```time``` library to delay dice number generation, simulating rolling of real dice
+3. ```while``` loops
+4. Conditions
+5. Try/Except
+
+Further updates to come!
