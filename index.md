@@ -1,6 +1,6 @@
 # D I C E
 
-## Welcome to D I C E - an app to roll as many dice as you choose, when you need!
+### Welcome to D I C E - an app to roll as many dice as you choose, when you need!
 
 ![Image](https://www.star.com.au/sydney/sites/default/files/styles/facebook_thumbnail/public/thumbnails/image/dice-game-cccp.jpg)
 
