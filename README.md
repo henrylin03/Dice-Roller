@@ -6,14 +6,10 @@
 
 The app uses the following libraries and concepts:
 
-:game_die: ```random``` library
-
-:game_die: ```time``` library
-
-:game_die: ```while``` loops
-
-:game_die: Conditions
-
-:game_die: Try / except
+1. ```random``` library
+2.  ```time``` library
+3.  ```while``` loops
+4.  :game_die: Conditions
+5.  :game_die: Try / except
 
 #### Further updates to come!
