@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## D I C E
 
-You can use the [editor on GitHub](https://github.com/hnrpls/python/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to **D I C E** - an app to help you roll as many dice as you choose when you've lost them, but need them!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Image](https://www.star.com.au/sydney/sites/default/files/styles/facebook_thumbnail/public/thumbnails/image/dice-game-cccp.jpg)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hnrpls/python/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+The app uses the following libraries and concepts:
+1. ```random``` library to generate dice numbers using ```randint()```
+2. ```time``` library to delay dice number generation, simulating rolling of real dice
+3. ```while``` loops
+4. Conditions
+5. Try/Except
