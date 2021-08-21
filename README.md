@@ -1,6 +1,6 @@
-# :game_die: D I C E :game_die:
+# :game_die: Dice-Roller :game_die:
 
-### Welcome to :game_die: D I C E :game_die: - an app to roll as many dice as you choose, when you need!
+### Welcome to :game_die: Dice-Roller :game_die:
 
 ![Image](https://www.star.com.au/sydney/sites/default/files/styles/facebook_thumbnail/public/thumbnails/image/dice-game-cccp.jpg)
 
@@ -10,11 +10,11 @@ The app uses the following libraries and concepts:
   
   :game_die: ```time``` library
   
-  :game_die: ```while``` loops
+  :game_die: loops
   
-  :game_die: Conditions
+  :game_die: conditions
   
-  :game_die: Try / except
+  :game_die: try / except
 
 
 ### Further updates to come!
