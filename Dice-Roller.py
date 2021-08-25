@@ -1,6 +1,7 @@
 import random
 import time
 
+
 def roll_dice(count_dice):
     roll_values = []
 
@@ -13,7 +14,15 @@ def roll_dice(count_dice):
         if count_dice == 1:
             print("\nYou rolled a " + str(roll_values[0]) + "!")
         elif count_dice == 2:
-            print("\nYou rolled a " + str(roll_values[0]) + ", and a " + str(roll_values[1]) + " for a total of " + str(sum(roll_values)) + "!")
+            print(
+                "\nYou rolled a "
+                + str(roll_values[0])
+                + ", and a "
+                + str(roll_values[1])
+                + " for a total of "
+                + str(sum(roll_values))
+                + "!"
+            )
         roll_values.clear()
 
 
